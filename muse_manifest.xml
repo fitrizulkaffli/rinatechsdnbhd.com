@@ -1,0 +1,686 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.rinatechsdnbhd.com" resolutions="1x" timestamp="1710992983454">
+  <folder name="css">
+    <file name="site_global.css" crc="18213388"/>
+    <file name="master_disclaimer.css" crc="3842196131" ref="privacy-policy:notice:site-map"/>
+    <file name="master_english.css" crc="147633013" ref="gallery:contact-us:introduction:services:index-en:management"/>
+    <file name="master_malay.css" crc="3906019534" ref="perkhidmatan:galeri:pengenalan:pengurusan:index:hubungi-kami"/>
+    <file name="master_penafian.css" crc="39612431" ref="peta-laman:notis:dasar-privasi"/>
+    <file name="peta-laman.css" crc="4049135143" ref="peta-laman"/>
+    <file name="notis.css" crc="299046990" ref="notis"/>
+    <file name="privacy-policy.css" crc="264403389" ref="privacy-policy"/>
+    <file name="gallery.css" crc="3905863378" ref="gallery"/>
+    <file name="perkhidmatan.css" crc="3913611630" ref="perkhidmatan"/>
+    <file name="contact-us.css" crc="3814471811" ref="contact-us"/>
+    <file name="galeri.css" crc="194915169" ref="galeri"/>
+    <file name="introduction.css" crc="4051752146" ref="introduction"/>
+    <file name="notice.css" crc="3918094746" ref="notice"/>
+    <file name="pengenalan.css" crc="374421182" ref="pengenalan"/>
+    <file name="services.css" crc="401417030" ref="services"/>
+    <file name="dasar-privasi.css" crc="340936820" ref="dasar-privasi"/>
+    <file name="site-map.css" crc="4192512626" ref="site-map"/>
+    <file name="pengurusan.css" crc="259115258" ref="pengurusan"/>
+    <file name="index.css" crc="4170780917" ref="index"/>
+    <file name="hubungi-kami.css" crc="4259558670" ref="hubungi-kami"/>
+    <file name="index-en.css" crc="4145674393" ref="index-en"/>
+    <file name="management.css" crc="3826691849" ref="management"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:pengenalan:pengurusan:perkhidmatan:hubungi-kami:galeri:dasar-privasi:notis:peta-laman:gallery:contact-us:services:introduction:management:index-en:privacy-policy:notice:site-map"/>
+    <file name="museutils.js" crc="3939489907" ref="index:pengenalan:pengurusan:perkhidmatan:hubungi-kami:galeri:dasar-privasi:notis:peta-laman:gallery:contact-us:services:introduction:management:index-en:privacy-policy:notice:site-map"/>
+    <file name="whatinput.js" crc="86476730" ref="index:pengenalan:pengurusan:perkhidmatan:hubungi-kami:galeri:dasar-privasi:notis:peta-laman:gallery:contact-us:services:introduction:management:index-en:privacy-policy:notice:site-map"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:pengenalan:pengurusan:perkhidmatan:hubungi-kami:galeri:dasar-privasi:notis:peta-laman:gallery:contact-us:services:introduction:management:index-en:privacy-policy:notice:site-map"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:pengenalan:pengurusan:perkhidmatan:hubungi-kami:galeri:dasar-privasi:gallery:contact-us:services:introduction:management:index-en:privacy-policy"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:pengenalan:pengurusan:perkhidmatan:hubungi-kami:galeri:dasar-privasi:notis:peta-laman:gallery:contact-us:services:introduction:management:index-en:privacy-policy:notice:site-map"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:pengenalan:pengurusan:perkhidmatan:hubungi-kami:galeri:gallery:contact-us:services:introduction:management:index-en"/>
+    <file name="webpro.js" crc="3856315280" ref="index:pengenalan:pengurusan:perkhidmatan:hubungi-kami:galeri:gallery:contact-us:services:introduction:management:index-en"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:pengenalan:pengurusan:perkhidmatan:hubungi-kami:galeri:gallery:contact-us:services:introduction:management:index-en"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:pengenalan:pengurusan:perkhidmatan:hubungi-kami:galeri:gallery:contact-us:services:introduction:management:index-en"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:pengenalan:pengurusan:perkhidmatan:hubungi-kami:galeri:gallery:contact-us:services:introduction:management:index-en"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index:index-en"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:pengenalan:pengurusan:perkhidmatan:hubungi-kami:galeri:dasar-privasi:notis:peta-laman:gallery:contact-us:services:introduction:management:index-en:privacy-policy:notice:site-map"/>
+    <file name="require.js" crc="4177726516" ref="index:pengenalan:pengurusan:perkhidmatan:hubungi-kami:galeri:dasar-privasi:notis:peta-laman:gallery:contact-us:services:introduction:management:index-en:privacy-policy:notice:site-map"/>
+    <file name="form_check.php" crc="4050423521" ref="hubungi-kami"/>
+    <file name="form_process.php" crc="3946589668" ref="hubungi-kami"/>
+    <file name="form-u1334.php" crc="4200588315" ref="hubungi-kami"/>
+    <file name="form-u3402.php" crc="361392024" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="malay-favicon.ico" crc="3968780" ref="index"/>
+    <file name="fax.png" crc="3841420659" ref="index:gallery">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="phone.png" crc="4210823847" ref="index:gallery">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="email.png" crc="430661728" ref="index:gallery">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="english.png" crc="188953381" ref="index:pengenalan:pengurusan:perkhidmatan:hubungi-kami:galeri">
+      <caption webpage="index" alt=""/>
+      <caption webpage="pengenalan" alt=""/>
+      <caption webpage="perkhidmatan" alt=""/>
+      <caption webpage="pengurusan" alt=""/>
+      <caption webpage="hubungi-kami" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="rinatech.png" crc="3929253323" ref="index:dasar-privasi:gallery:privacy-policy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="dasar-privasi" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+    </file>
+    <file name="u316-5.png" crc="4037632678" ref="index:pengenalan:pengurusan:perkhidmatan:hubungi-kami:galeri"/>
+    <file name="arrowmenudown-u363.png" crc="470458880" ref="index:pengenalan:pengurusan:perkhidmatan:hubungi-kami:galeri"/>
+    <file name="1.jpg" crc="78864471" seo="true" ref="index:index-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index-en" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:pengenalan:pengurusan:perkhidmatan:hubungi-kami:galeri:gallery:contact-us:services:introduction:management:index-en"/>
+    <file name="2.jpg" crc="128324447" seo="true" ref="index:index-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index-en" alt=""/>
+    </file>
+    <file name="3.jpg" crc="3778260805" seo="true" ref="index:index-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index-en" alt=""/>
+    </file>
+    <file name="4.jpg" crc="3994831139" seo="true" ref="index:index-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index-en" alt=""/>
+    </file>
+    <file name="1-crop-u557.jpg" crc="195900558" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u625.jpg" crc="3952426089" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u634.jpg" crc="4039188517" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u643.jpg" crc="324433280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:pengenalan:pengurusan:perkhidmatan:hubungi-kami:galeri:gallery:contact-us:services:introduction:management:index-en"/>
+    <file name="electrical 1.jpg" crc="523198828" ref="index:index-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index-en" alt=""/>
+    </file>
+    <file name="electrical 3.jpg" crc="4064776385" ref="index:index-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index-en" alt=""/>
+    </file>
+    <file name="electrical 2.jpg" crc="3828131236" ref="index:index-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index-en" alt=""/>
+    </file>
+    <file name="electrical 4.jpg" crc="4275003985" ref="index:index-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index-en" alt=""/>
+    </file>
+    <file name="supplier 1.jpg" crc="131536792" ref="index:index-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index-en" alt=""/>
+    </file>
+    <file name="supplier 2.jpg" crc="471728663" ref="index:index-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index-en" alt=""/>
+    </file>
+    <file name="supplier 3.jpg" crc="4012375199" ref="index:index-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index-en" alt=""/>
+    </file>
+    <file name="supplier 4.jpg" crc="467576771" ref="index:index-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index-en" alt=""/>
+    </file>
+    <file name="rental 1.jpg" crc="4182862171" ref="index:index-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index-en" alt=""/>
+    </file>
+    <file name="rental 3.jpg" crc="10105918" ref="index:index-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index-en" alt=""/>
+    </file>
+    <file name="rental 2.jpg" crc="3833764691" ref="index:index-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index-en" alt=""/>
+    </file>
+    <file name="rental 4.jpg" crc="116515030" ref="index:index-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index-en" alt=""/>
+    </file>
+    <file name="cidb.png" crc="438986427" ref="index:gallery">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="jabatan kerja raya.png" crc="152902877" ref="index:gallery">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="suruhanjaya tenaga.png" crc="313808213" ref="index:gallery">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="tenaga nasional berhad.png" crc="406084598" ref="index:gallery">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="browser fill.jpg" crc="3775422112" ref="index:pengenalan:pengurusan:perkhidmatan:hubungi-kami:galeri:gallery:contact-us:services:introduction:management:index-en">
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="perkhidmatan" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="pengurusan" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="pengenalan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="index-en" alt=""/>
+      <caption webpage="management" alt=""/>
+      <caption webpage="hubungi-kami" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="12.jpg" crc="283023812" seo="true" ref="pengenalan:pengurusan:introduction:management">
+      <caption webpage="management" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="pengurusan" alt=""/>
+      <caption webpage="pengenalan" alt=""/>
+    </file>
+    <file name="22.jpg" crc="3824246014" seo="true" ref="pengenalan:pengurusan:introduction:management">
+      <caption webpage="management" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="pengurusan" alt=""/>
+      <caption webpage="pengenalan" alt=""/>
+    </file>
+    <file name="32.jpg" crc="280955811" seo="true" ref="pengenalan:pengurusan:introduction:management">
+      <caption webpage="management" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="pengurusan" alt=""/>
+      <caption webpage="pengenalan" alt=""/>
+    </file>
+    <file name="42.jpg" crc="286826083" seo="true" ref="pengenalan:pengurusan:introduction:management">
+      <caption webpage="management" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="pengurusan" alt=""/>
+      <caption webpage="pengenalan" alt=""/>
+    </file>
+    <file name="1-crop-u707.jpg" crc="3956133785" seo="true" ref="pengenalan">
+      <caption webpage="pengenalan" alt=""/>
+    </file>
+    <file name="2-crop-u784.jpg" crc="4268184897" seo="true" ref="pengenalan">
+      <caption webpage="pengenalan" alt=""/>
+    </file>
+    <file name="3-crop-u793.jpg" crc="330121635" seo="true" ref="pengenalan">
+      <caption webpage="pengenalan" alt=""/>
+    </file>
+    <file name="4-crop-u802.jpg" crc="179706075" seo="true" ref="pengenalan">
+      <caption webpage="pengenalan" alt=""/>
+    </file>
+    <file name="logo.png" crc="38189687" ref="pengenalan:introduction">
+      <caption webpage="pengenalan" alt=""/>
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="1-crop-u873.jpg" crc="3956133785" seo="true" ref="pengurusan">
+      <caption webpage="pengurusan" alt=""/>
+    </file>
+    <file name="2-crop-u947.jpg" crc="4268184897" seo="true" ref="pengurusan">
+      <caption webpage="pengurusan" alt=""/>
+    </file>
+    <file name="3-crop-u956.jpg" crc="330121635" seo="true" ref="pengurusan">
+      <caption webpage="pengurusan" alt=""/>
+    </file>
+    <file name="4-crop-u965.jpg" crc="179706075" seo="true" ref="pengurusan">
+      <caption webpage="pengurusan" alt=""/>
+    </file>
+    <file name="13.jpg" crc="259267507" seo="true" ref="perkhidmatan:services">
+      <caption webpage="perkhidmatan" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="23.jpg" crc="418877010" seo="true" ref="perkhidmatan:services">
+      <caption webpage="perkhidmatan" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="33.jpg" crc="130716728" seo="true" ref="perkhidmatan:services">
+      <caption webpage="perkhidmatan" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="43.jpg" crc="64632487" seo="true" ref="perkhidmatan:services">
+      <caption webpage="perkhidmatan" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="1-crop-u1023.jpg" crc="4049082180" seo="true" ref="perkhidmatan">
+      <caption webpage="perkhidmatan" alt=""/>
+    </file>
+    <file name="2-crop-u1269.jpg" crc="296812712" seo="true" ref="perkhidmatan">
+      <caption webpage="perkhidmatan" alt=""/>
+    </file>
+    <file name="3-crop-u1278.jpg" crc="534534519" seo="true" ref="perkhidmatan">
+      <caption webpage="perkhidmatan" alt=""/>
+    </file>
+    <file name="4-crop-u1287.jpg" crc="472256639" seo="true" ref="perkhidmatan">
+      <caption webpage="perkhidmatan" alt=""/>
+    </file>
+    <file name="14.jpg" crc="347187499" seo="true" ref="hubungi-kami:contact-us">
+      <caption webpage="hubungi-kami" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="24.jpg" crc="98452743" seo="true" ref="hubungi-kami:contact-us">
+      <caption webpage="hubungi-kami" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="34.jpg" crc="521932158" seo="true" ref="hubungi-kami:contact-us">
+      <caption webpage="hubungi-kami" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="44.jpg" crc="26542459" seo="true" ref="hubungi-kami:contact-us">
+      <caption webpage="hubungi-kami" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="1-crop-u1306.jpg" crc="261991199" seo="true" ref="hubungi-kami">
+      <caption webpage="hubungi-kami" alt=""/>
+    </file>
+    <file name="2-crop-u1868.jpg" crc="3772490233" seo="true" ref="hubungi-kami">
+      <caption webpage="hubungi-kami" alt=""/>
+    </file>
+    <file name="3-crop-u1877.jpg" crc="3900835123" seo="true" ref="hubungi-kami">
+      <caption webpage="hubungi-kami" alt=""/>
+    </file>
+    <file name="4-crop-u1886.jpg" crc="223014459" seo="true" ref="hubungi-kami">
+      <caption webpage="hubungi-kami" alt=""/>
+    </file>
+    <file name="user.png" crc="157352954" ref="hubungi-kami:contact-us">
+      <caption webpage="hubungi-kami" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="email2.png" crc="3760545500" ref="hubungi-kami:contact-us">
+      <caption webpage="hubungi-kami" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="message.png" crc="3987699486" ref="hubungi-kami:contact-us">
+      <caption webpage="hubungi-kami" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="15.jpg" crc="286509699" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="25.jpg" crc="4270840874" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="35.jpg" crc="3959321324" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="45.jpg" crc="4055957027" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="1-crop-u1543.jpg" crc="262514020" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="2-crop-u1799.jpg" crc="3939850251" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="3-crop-u1808.jpg" crc="329743712" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="4-crop-u1817.jpg" crc="83698102" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 22-crop-u5684.jpg" crc="3946837579" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 23-crop-u5674.jpg" crc="4142909720" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery24-crop-u5692.jpg" crc="142131494" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 19-crop-u5694.jpg" crc="4203981319" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 20-crop-u5700.jpg" crc="414529382" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 21-crop-u5670.jpg" crc="463394486" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 01155x117.jpg" crc="58046869" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 02155x117.jpg" crc="4261568387" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 03155x117.jpg" crc="4171978976" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 04155x117.jpg" crc="525613969" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 05-crop-u5698.jpg" crc="442091962" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 06-crop-u5672.jpg" crc="4156980048" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 07-crop-u5708.jpg" crc="213239003" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 08-crop-u5676.jpg" crc="4004020389" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 09-crop-u5702.jpg" crc="4078408020" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 10155x117.jpg" crc="3825909842" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 11-crop-u5704.jpg" crc="239441895" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 12-crop-u5706.jpg" crc="3864491002" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 13-crop-u5668.jpg" crc="4231643300" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 14-crop-u5662.jpg" crc="4104149369" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 15-crop-u5664.jpg" crc="490910118" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 16-crop-u5686.jpg" crc="493704206" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 18-crop-u5682.jpg" crc="388642206" seo="true" ref="galeri">
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="u5660.png" crc="3805419677" ref="galeri"/>
+    <file name="u5660-r.png" crc="501711936" ref="galeri"/>
+    <file name="u5660-m.png" crc="82090026" ref="galeri"/>
+    <file name="gallery 22.jpg" crc="191256997" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 23.jpg" crc="8341077" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery24.jpg" crc="3902641959" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 19.jpg" crc="56923396" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 20.jpg" crc="3773762702" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 21.jpg" crc="89865986" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 01.jpg" crc="150658101" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 02.jpg" crc="196573063" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 03.jpg" crc="210734799" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 04.jpg" crc="147549955" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 05.jpg" crc="27932361" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 06.jpg" crc="232030748" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 07.jpg" crc="4116372674" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 08.jpg" crc="312609824" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 09.jpg" crc="4148887374" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 10.jpg" crc="3929964651" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 11.jpg" crc="3843290074" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 12.jpg" crc="342011867" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 13.jpg" crc="227340788" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 14.jpg" crc="4119686434" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 15.jpg" crc="500712688" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 16.jpg" crc="3867537145" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="gallery 18.jpg" crc="3926327593" seo="true" ref="galeri:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="galeri" alt=""/>
+    </file>
+    <file name="u5902-4.png" crc="254231195" ref="galeri"/>
+    <file name="u5710.png" crc="3853237348" ref="galeri"/>
+    <file name="u5710-r.png" crc="431688173" ref="galeri"/>
+    <file name="u5710-m.png" crc="219485066" ref="galeri"/>
+    <file name="penafian-favicon.ico" crc="3968780" ref="dasar-privasi"/>
+    <file name="u513-5.png" crc="470262824" ref="dasar-privasi:notis:peta-laman"/>
+    <file name="u670-4.png" crc="4210019907" ref="dasar-privasi"/>
+    <file name="u671-5.png" crc="334914100" ref="dasar-privasi"/>
+    <file name="u664-5.png" crc="331731979" ref="dasar-privasi"/>
+    <file name="u666-5.png" crc="4060037024" ref="dasar-privasi"/>
+    <file name="u668-5.png" crc="9480002" ref="dasar-privasi"/>
+    <file name="u676-4.png" crc="207029638" ref="notis"/>
+    <file name="u674-5.png" crc="4249744651" ref="notis"/>
+    <file name="u679-4.png" crc="424562224" ref="peta-laman"/>
+    <file name="u680-5.png" crc="321530158" ref="peta-laman"/>
+    <file name="english-favicon.ico" crc="3968780" ref="gallery"/>
+    <file name="malay.png" crc="4205954614" ref="gallery:contact-us:services:introduction:management:index-en">
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="management" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="index-en" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="u2713-5.png" crc="4037632678" ref="gallery:contact-us:services:introduction:management:index-en"/>
+    <file name="arrowmenudown-u2739.png" crc="470458880" ref="gallery:contact-us:services:introduction:management:index-en"/>
+    <file name="1-crop-u3155.jpg" crc="262514020" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="2-crop-u3159.jpg" crc="3939850251" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="3-crop-u3153.jpg" crc="329743712" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="4-crop-u3157.jpg" crc="83698102" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery 22-crop-u3205.jpg" crc="3946837579" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery 23-crop-u5455.jpg" crc="4142909720" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery24-crop-u5464.jpg" crc="142131494" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery 19-crop-u5473.jpg" crc="4203981319" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery 20-crop-u5482.jpg" crc="414529382" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery 21-crop-u5491.jpg" crc="463394486" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery 05-crop-u5536.jpg" crc="442091962" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery 06-crop-u5545.jpg" crc="4156980048" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery 07-crop-u5554.jpg" crc="213239003" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery 08-crop-u5563.jpg" crc="4004020389" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery 09-crop-u5572.jpg" crc="4078408020" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery 11-crop-u5590.jpg" crc="239441895" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery 12-crop-u5599.jpg" crc="3864491002" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery 13-crop-u5608.jpg" crc="4231643300" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery 14-crop-u5617.jpg" crc="4104149369" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery 15-crop-u5626.jpg" crc="490910118" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery 16-crop-u5635.jpg" crc="493704206" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery 18-crop-u5653.jpg" crc="388642206" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="u3280.png" crc="3805419677" ref="gallery"/>
+    <file name="u3280-r.png" crc="501711936" ref="gallery"/>
+    <file name="u3280-m.png" crc="82090026" ref="gallery"/>
+    <file name="u5927-4.png" crc="254231195" ref="gallery"/>
+    <file name="u3229.png" crc="3853237348" ref="gallery"/>
+    <file name="u3229-r.png" crc="431688173" ref="gallery"/>
+    <file name="u3229-m.png" crc="219485066" ref="gallery"/>
+    <file name="1-crop-u3455.jpg" crc="261991199" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="2-crop-u3453.jpg" crc="3772490233" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="3-crop-u3457.jpg" crc="3900835123" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="4-crop-u3451.jpg" crc="223014459" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="1-crop-u3583.jpg" crc="4049082180" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="2-crop-u3585.jpg" crc="296812712" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="3-crop-u3587.jpg" crc="534534519" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="4-crop-u3581.jpg" crc="472256639" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="1-crop-u3768.jpg" crc="3956133785" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="2-crop-u3764.jpg" crc="4268184897" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="3-crop-u3770.jpg" crc="330121635" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="4-crop-u3766.jpg" crc="179706075" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="1-crop-u3865.jpg" crc="3956133785" seo="true" ref="management">
+      <caption webpage="management" alt=""/>
+    </file>
+    <file name="2-crop-u3861.jpg" crc="4268184897" seo="true" ref="management">
+      <caption webpage="management" alt=""/>
+    </file>
+    <file name="3-crop-u3863.jpg" crc="330121635" seo="true" ref="management">
+      <caption webpage="management" alt=""/>
+    </file>
+    <file name="4-crop-u3867.jpg" crc="179706075" seo="true" ref="management">
+      <caption webpage="management" alt=""/>
+    </file>
+    <file name="1-crop-u3941.jpg" crc="195900558" seo="true" ref="index-en">
+      <caption webpage="index-en" alt=""/>
+    </file>
+    <file name="2-crop-u3937.jpg" crc="3952426089" seo="true" ref="index-en">
+      <caption webpage="index-en" alt=""/>
+    </file>
+    <file name="3-crop-u3939.jpg" crc="4039188517" seo="true" ref="index-en">
+      <caption webpage="index-en" alt=""/>
+    </file>
+    <file name="4-crop-u3935.jpg" crc="324433280" seo="true" ref="index-en">
+      <caption webpage="index-en" alt=""/>
+    </file>
+    <file name="disclaimer-favicon.ico" crc="3968780" ref="privacy-policy"/>
+    <file name="u2683-5.png" crc="470262824" ref="privacy-policy:notice:site-map"/>
+    <file name="u4001-4.png" crc="252638920" ref="privacy-policy"/>
+    <file name="u4000-5.png" crc="4207309004" ref="privacy-policy"/>
+    <file name="u4007-5.png" crc="228855255" ref="privacy-policy"/>
+    <file name="u4005-5.png" crc="90321078" ref="privacy-policy"/>
+    <file name="u4003-5.png" crc="106258457" ref="privacy-policy"/>
+    <file name="u4030-4.png" crc="4255312379" ref="notice"/>
+    <file name="u4029-5.png" crc="150183917" ref="notice"/>
+    <file name="u4041-4.png" crc="4125157257" ref="site-map"/>
+    <file name="u4040-5.png" crc="51068650" ref="site-map"/>
+  </folder>
+  <file name="index.html" crc="3820126758" seo="true" mt="1710992846377" redirect="true"/>
+  <file name="pengenalan.html" crc="344912011" seo="true" mt="1710992846377" redirect="true"/>
+  <file name="pengurusan.html" crc="4060956206" seo="true" mt="1710992846377" redirect="true"/>
+  <file name="perkhidmatan.html" crc="350637172" seo="true" mt="1710992846377" redirect="true"/>
+  <file name="hubungi-kami.html" crc="408673697" seo="true" mt="1710992945332" redirect="true"/>
+  <file name="galeri.html" crc="4041853025" seo="true" mt="1710992846377" redirect="true"/>
+  <file name="dasar-privasi.html" crc="3874368590" mt="1487666918705" redirect="true"/>
+  <file name="notis.html" crc="4258195937" mt="1487666926308" redirect="true"/>
+  <file name="peta-laman.html" crc="159744480" mt="1487666932358" redirect="true"/>
+  <file name="gallery.html" crc="3810382604" seo="true" mt="1710992849921" redirect="true"/>
+  <file name="contact-us.html" crc="3869511602" seo="true" mt="1710992939869" redirect="true"/>
+  <file name="services.html" crc="3817012498" seo="true" mt="1710992849921" redirect="true"/>
+  <file name="introduction.html" crc="393856024" seo="true" mt="1710992849921" redirect="true"/>
+  <file name="management.html" crc="3901544364" seo="true" mt="1710992849921" redirect="true"/>
+  <file name="index-en.html" crc="151891491" seo="true" mt="1710992849921" redirect="true"/>
+  <file name="privacy-policy.html" crc="3934774502" mt="1487666938139" redirect="true"/>
+  <file name="notice.html" crc="135944477" mt="1487666943533" redirect="true"/>
+  <file name="site-map.html" crc="4110307672" mt="1487666948878" redirect="true"/>
+</manifest>
