@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   function openPopup() {
     Swal.fire({
-      title: "For Portfolio Purposes Only",
+      title: "Web Design Museum",
       icon: "info",
       iconColor: "#4169E1",
       html: `This website has been archived and is obsolete. It does not reflect the current status or updates and is no longer affiliated with the company.`,
