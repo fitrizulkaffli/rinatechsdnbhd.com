@@ -3,14 +3,15 @@ document.addEventListener('DOMContentLoaded', function() {
 
   function openPopup() {
     Swal.fire({
-      title: "Web Design Museum",
+      title: "This Website is Obsolete",
       icon: "info",
       iconColor: "#4169E1",
-      html: `This website has been archived and is obsolete. It does not reflect the current status or updates and is no longer affiliated with the company.`,
+      html: `This website is outdated and has been archived. It no longer reflects the current status or updates and is no longer affiliated with the company.`,
       showCancelButton: true,
       focusConfirm: false,
       confirmButtonText: `I Understand`,
       cancelButtonText: `Visit Facebook Page <i class="fa fa-external-link"></i>`,
+      footer: '<a href="https://fitri.my">This website was designed by Mohd Fitri Zulkaffli in 2017 <i class="fa fa-external-link"></i></a>',
       confirmButtonColor: "#2A52BE",
       cancelButtonColor: "#24252B",
       allowOutsideClick: false,
