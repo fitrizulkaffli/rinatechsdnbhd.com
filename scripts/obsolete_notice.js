@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
             focusConfirm: false,
             confirmButtonText: `I Understand`,
             cancelButtonText: `Visit Facebook Page <i class="fa fa-external-link"></i>`,
-            footer: 'Another website design by&#32;<a href="https://fitri.my" target="_blank" rel="noopener noreferrer" class="custom-footer-link">Mohd Fitri Zulkaffli <i class="fa fa-external-link"></i></a>',
+            footer: 'Another website design by&nbsp;<a href="https://fitri.my" target="_blank" rel="noopener noreferrer" class="custom-footer-link">Mohd Fitri Zulkaffli <i class="fa fa-external-link"></i></a>',
             confirmButtonColor: "#2A52BE",
             cancelButtonColor: "#24252B",
             allowOutsideClick: false,
